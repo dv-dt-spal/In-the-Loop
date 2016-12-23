@@ -34,7 +34,7 @@
 * https://learnpythonthehardway.org/
 * "enki" android/iOS app
 
-### Books, Blogs and more ### 
+### Books, Blogs and more  
 * http://neuralnetworksanddeeplearning.com/
 * https://www.udacity.com/self-driving-car
 * https://www.reddit.com/r/MachineLearning/
@@ -64,7 +64,7 @@
 * https://github.com/HFTrader
 * https://github.com/nicolov/robotics_for_developers
 
-### YouTube Channels/Playlists ### 
+### YouTube Channels/Playlists
 * https://www.youtube.com/channel/UC0z_jCi0XWqI8awUuQRFnyw
 * https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 * https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
