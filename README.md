@@ -53,6 +53,8 @@
 * https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518 (computer vision)
 * https://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623
 * http://shop.oreilly.com/product/0636920044765.do (Learning OpenCV 3)
+* https://nvidia.qwiklab.com/tags/Deep%20Learning
+* https://blogs.nvidia.com/blog/category/deep-learning/
 
 ### GitHub Repos ###
 * https://github.com/udacity/self-driving-car/
