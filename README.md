@@ -45,7 +45,7 @@
 * https://research.google.com/pubs/
 * https://research.fb.com/
 * https://www.microsoft.com/en-us/research/
-* arxiv.org
+* https://arxiv.org/
 * http://www.computervisionblog.com/?m=1 (Gem in computer vision)
 * https://medium.com/@awjuliani/
 * http://colah.github.io/
@@ -117,3 +117,9 @@
 
 ### CVPR 2016 papers ###
 * http://www.cv-foundation.org/openaccess/CVPR2016.py
+
+### News ###
+* http://venturebeat.com/2017/01/01/5-deep-learning-startups-to-follow-in-2017/
+
+### Reinforcement Learning Series ###
+* https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.kwqhuurw0
