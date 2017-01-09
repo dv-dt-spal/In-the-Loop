@@ -34,7 +34,7 @@
 * https://learnpythonthehardway.org/
 * "enki" android/iOS app
 
-### Books, Blogs and more  
+### Books, Blogs, Papers and more  
 * http://neuralnetworksanddeeplearning.com/
 * https://www.udacity.com/self-driving-car
 * https://www.reddit.com/r/MachineLearning/
@@ -53,8 +53,9 @@
 * https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518 (computer vision)
 * https://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623
 * http://shop.oreilly.com/product/0636920044765.do (Learning OpenCV 3)
-* https://nvidia.qwiklab.com/tags/Deep%20Learning
 * https://blogs.nvidia.com/blog/category/deep-learning/
+* http://www.arxiv-sanity.com/
+* http://www.gitxiv.com/ 
 
 ### GitHub Repos ###
 * https://github.com/udacity/self-driving-car/
@@ -70,6 +71,7 @@
 * https://www.youtube.com/channel/UC0z_jCi0XWqI8awUuQRFnyw
 * https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 * https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
+* https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC (CS 231n Winter 2016)
 
 ### Twitter handles to be in the loop ###
 * https://twitter.com/quantombone
@@ -104,6 +106,7 @@
 * http://graphics.cs.cmu.edu/courses/16-824-S15/schedule.html
 * https://www.coursera.org/specializations/machine-learning
 * https://bigdatauniversity.com/courses/deep-learning-tensorflow/
+* https://nvidia.qwiklab.com/tags/Deep%20Learning
 
 ### Get connected with Slack ###
 * Udacity self-driving - https://nd013.udacity.com/
