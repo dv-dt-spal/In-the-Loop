@@ -107,6 +107,10 @@
 * https://www.coursera.org/specializations/machine-learning
 * https://bigdatauniversity.com/courses/deep-learning-tensorflow/
 * https://nvidia.qwiklab.com/tags/Deep%20Learning
+* http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html (Reinforcement Learning)
+* https://www.youtube.com/watch?v=2pWv7GOvuf0 (Videos of the above course)
+* https://www.cs.cmu.edu/~katef/DeepRLControlCourse/index.html (Deep Reinforcement Learning and Control CMU Spring'17)
+* https://www.coursera.org/learn/neural-networks (Neural Networks for Machine Learning by  Geoffrey Hinton)
 
 ### Get connected with Slack ###
 * Udacity self-driving - https://nd013.udacity.com/
